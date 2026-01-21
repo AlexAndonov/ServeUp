@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ServeUp.Core/ServeUp.Core.csproj" />
+  <Project Path="ServeUp.Infra/ServeUp.Infra.csproj" />
+  <Project Path="ServeUp/ServeUp.csproj" />
+</Solution>
